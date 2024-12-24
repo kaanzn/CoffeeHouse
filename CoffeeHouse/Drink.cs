@@ -1,21 +1,21 @@
 namespace CoffeeHouse
 {
-    internal class Drink
+    internal class Drink : MenuItem
     {
-        internal MenuItem MenuItem { get; private set; }
-        public Barista MadeBy { get; private set; }
-        public DateTime TimeStamp { get; private set; }
+        internal enum MilkType {Whole, LowFat, NoFat, Almond, Soy, Coconut, NoMilk}
+        internal MilkType Milk;
+        internal DateTime TimeStamp { get; }
 
-        internal Drink(MenuItem menuItem, Barista barista)
+        internal Drink(string name, decimal price, Barista barista, MilkType milkType) : base(name, price, barista)
         {
-            MenuItem = menuItem;
-            MadeBy = barista;
             TimeStamp = DateTime.Now;
+            Milk = milkType;
         }
 
-        public string GetInfo()
+        internal override string GetInfo()
         {
-            return $"{MenuItem.Name} (Made By: {MadeBy.GetInfo()} at {TimeStamp})";
+            
+            return $"{base.GetInfo()} at {TimeStamp}\nMilk Type: {Milk}";
         }
     }
 }

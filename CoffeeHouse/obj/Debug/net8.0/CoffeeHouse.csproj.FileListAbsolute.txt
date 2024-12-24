@@ -1,0 +1,15 @@
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/bin/Debug/net8.0/CoffeeHouse
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/bin/Debug/net8.0/CoffeeHouse.deps.json
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/bin/Debug/net8.0/CoffeeHouse.runtimeconfig.json
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/bin/Debug/net8.0/CoffeeHouse.dll
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/bin/Debug/net8.0/CoffeeHouse.pdb
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/obj/Debug/net8.0/CoffeeHouse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/obj/Debug/net8.0/CoffeeHouse.AssemblyInfoInputs.cache
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/obj/Debug/net8.0/CoffeeHouse.AssemblyInfo.cs
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/obj/Debug/net8.0/CoffeeHouse.csproj.CoreCompileInputs.cache
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/obj/Debug/net8.0/CoffeeHouse.sourcelink.json
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/obj/Debug/net8.0/CoffeeHouse.dll
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/obj/Debug/net8.0/refint/CoffeeHouse.dll
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/obj/Debug/net8.0/CoffeeHouse.pdb
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/obj/Debug/net8.0/CoffeeHouse.genruntimeconfig.cache
+/Users/kaanozaydin/Desktop/CoffeeHouse/CoffeeHouse/obj/Debug/net8.0/ref/CoffeeHouse.dll
